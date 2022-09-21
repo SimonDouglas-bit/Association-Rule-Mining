@@ -33,3 +33,8 @@ frequent itemsets.
 2. Another challenge is that it is not easy to establish the threshold values for the Apriori
 algorithm and it is difficult to establish the accuracy of unsupervised learning as
 compared to supervised learning
+## Notebook
+[unsupervised learning.zip](https://github.com/SimonDouglas-bit/Association-Rule-Mining/files/9615653/unsupervised.learning.zip)
+## Dataset
+[Groceries_dataset.csv](https://github.com/SimonDouglas-bit/Association-Rule-Mining/files/9615655/Groceries_dataset.csv)
+
